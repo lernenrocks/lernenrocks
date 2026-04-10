@@ -1,4 +1,4 @@
-# Hi, I'm [Name] 👋
+# Hi, I'm Andy 👋
 
 People and technology – that's been my constant for as long as I can remember.
 
