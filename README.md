@@ -16,6 +16,6 @@ Somewhere in between I studied Cognitive Informatics in Bielefeld on the side �
 
 I'm neither a passionate developer nor a tech expert – I just refuse to write sloppy code for something I actually care about.
 
-My GitHub is mostly a fireproof backup for **TerraControl** – a terrarium control system built on an ESP32, because why not. Sensor data, smart plugs, SD and database logging, and maybe a UI if the hardware cooperates.
+My GitHub is mainly home to TerraControl – a terrarium control system built on an ESP32, because why not. Sensor data, smart plugs, a local web GUI and logging, all without a cloud.
 
 *A work in progress. Like most things worth building.*
